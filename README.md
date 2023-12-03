@@ -12,9 +12,9 @@ conda activate AICUP
 ```
 
 # 棋力模仿
-[下載Train Dataset](https://drive.google.com/drive/folders/1dl55gEXbeT2VDWOHFdwUshtqoHx9LQX3?usp=drive_link)
-[下載Dan最後權重](https://drive.google.com/file/d/1U38RxNY0KhakDvWE9OYGyzPNI4Ns1_ih/view?usp=sharing)
-[下載Kyu最後權重](https://drive.google.com/file/d/1Vf_ejOC-yB-Tk3N6RaH3qAmWwzYc8lUQ/view?usp=sharing)
+[下載Train Dataset](https://drive.google.com/drive/folders/1dl55gEXbeT2VDWOHFdwUshtqoHx9LQX3?usp=drive_link)\
+[下載Dan最後權重](https://drive.google.com/file/d/1U38RxNY0KhakDvWE9OYGyzPNI4Ns1_ih/view?usp=sharing)\
+[下載Kyu最後權重](https://drive.google.com/file/d/1Vf_ejOC-yB-Tk3N6RaH3qAmWwzYc8lUQ/view?usp=sharing)\
 下載後放入棋力模仿資料夾即可
 1. Dan
     1. 模型架構如下圖
