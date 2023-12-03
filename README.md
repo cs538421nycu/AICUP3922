@@ -36,6 +36,6 @@ conda activate AICUP
     5. Kyu_Final_Weight.pth為AICUP競賽中正確率最高的權重。
     
 3. 輸出upload.csv
-    1.打開Make_Upload.ipynb
-    2.如果有自己訓練的weight可以修改一開始的kyu_weight_path及dan_weight_path
-    3.如果有修改model需要去下面Kyu Model或是Dan Model部分修改成自己的model
+    1. 打開Make_Upload.ipynb
+    2. 如果有自己訓練的weight可以修改一開始的kyu_weight_path及dan_weight_path
+    3. 如果有修改model需要去下面Kyu Model或是Dan Model部分修改成自己的model
