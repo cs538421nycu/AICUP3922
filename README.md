@@ -45,6 +45,7 @@ conda activate AICUP
     3. 如果有修改model需要去下面Kyu Model或是Dan Model部分修改成自己的model
 
 # 棋風辨識
-1. 執行順序
-    1. 訓練完五個檔案，會自動存取validation loss最低的權重，再根據
-2. 
+**執行順序**
+    1. 訓練完五個檔案，會自動存取validation loss最低的權重。
+    2. 將該權重load進model，進行測試，輸出預測結果。
+    3. 將模型三的三種不同結果進行投票，輸出結果再和模型一、模型二投票，獲得最終結果。
