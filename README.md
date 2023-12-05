@@ -16,8 +16,8 @@ conda activate AICUP
 [下載Dan最後權重](https://drive.google.com/file/d/1U38RxNY0KhakDvWE9OYGyzPNI4Ns1_ih/view?usp=sharing)\
 [下載Kyu最後權重](https://drive.google.com/file/d/1Vf_ejOC-yB-Tk3N6RaH3qAmWwzYc8lUQ/view?usp=sharing)\
 下載後放入棋力模仿資料夾即可
-[也可至此下載所有檔案](https://drive.google.com/drive/folders/1YG9770fNYPKr6OruFTDA9nNHEb4mbSkC?usp=drive_link)
-[備用檔案連結](https://drive.google.com/drive/folders/1u62bujVYEopXl4cJm1csixmR6anGKl1N?usp=sharing)
+[也可至此下載所有檔案](https://drive.google.com/drive/folders/1YG9770fNYPKr6OruFTDA9nNHEb4mbSkC?usp=drive_link)\
+[備用檔案連結](https://drive.google.com/drive/folders/1u62bujVYEopXl4cJm1csixmR6anGKl1N?usp=sharing)\
 1. Dan
     1. 模型架構如下圖
     ![Dan_Model](https://hackmd.io/_uploads/rkDMNpOra.png)
